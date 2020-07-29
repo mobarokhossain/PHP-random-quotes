@@ -1,0 +1,17 @@
+{
+    "name": "mobarokhossain/php-random-quotes-generator",
+    "description": "This library will give you awesome motivational quotes.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mobarok Hossain",
+            "email": "mobarok.soft@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RandomQuotes\\": "src/"
+        }
+    },
+    "require": {}
+}
